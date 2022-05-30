@@ -1,1 +1,2 @@
-psvm2
+Class Converter () {
+}
